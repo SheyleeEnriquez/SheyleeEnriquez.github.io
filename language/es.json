@@ -1,0 +1,25 @@
+{
+  "Nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contactos"
+  },
+  "Home": {
+    "greeting": "¡Hola!",
+    "name": "Soy Sheylee Enriquez",
+    "rol": "Estudiante de Ingeniería de Software"
+  },
+  "About": {
+    "im": "¿Quien soy?",
+    "description": "Mi nombre es Sheylee Enriquez, estudiante de la carrera de Ingeniería de Software.",
+    "my-description": "¡Hola! Soy de Ecuador, vivo en Quito y estoy cursando mi quinto semestre en la Universidad de las Fuerzas Armadas - 'ESPE'. Realmente me apasiona mi carrera, me gusta aprender y crear cosas nuevas, principalmente cuando se trata del desarrollo web.",
+    "years": "Edad:",
+    "from": "Desde:",
+    "tools": "Herramientas"
+  },
+  "Footer": {
+    "footer-info": "Sheylee Enriquez"
+  }
+}

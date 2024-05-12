@@ -1,0 +1,26 @@
+{
+  "Nav": {
+    "home": "Home",
+    "about": "About me",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "Home": {
+    "greeting": "Hello!",
+    "name": "I am Sheylee Enriquez",
+    "rol": "Currently a Software Engineering Student"
+  },
+  "About": {
+    "im": "Who am I?",
+    "description": "My name is Sheylee Enriquez and I am a Software Engineering student",
+    "my-description": "Hi! I am from Ecuador, I live in Quito and I am studying my fifth semester at Universidad de las Fuerzas Armadas - 'ESPE'. I am really passionate about my career, I like to learn and create new things, mainly when it comes to web development.",
+    "years": "Age:",
+    "from": "From:",
+    "tools": "Tools"
+  },
+  "Footer": {
+    "footer-info": "Sheylee Enriquez"
+  }
+  
+}
